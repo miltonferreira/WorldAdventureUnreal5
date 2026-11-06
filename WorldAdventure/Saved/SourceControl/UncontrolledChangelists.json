@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Eyes.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Glove.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Hair.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_PhysicsAsset.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Shirt_Blue.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Shirt_Edge.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Shirt_Red.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Shoes_Black.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Shoes_Yellow.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Shorts_Black.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Skeleton.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Character_Skin.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_Attack.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_HitReact.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_Idle.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_Jump.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_Jump_Idle.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_Jump_Land.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/CharacterCharacter_Run.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Attack.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_HitReact.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Idle.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Jump.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Jump_Idle.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Jump_Land.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Run.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Eyes.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Glove.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Hair.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Shirt_Blue.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Shirt_Edge.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Shirt_Red.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Shoes_Black.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Shoes_Yellow.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Shorts_Black.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/Characters/Hero/Materials/Character_Skin.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset",
+				"C:/Users/User/Documents/MiltonFerreira/WorldAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
