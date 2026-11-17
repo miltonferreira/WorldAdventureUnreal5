@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Pichau/Documents/GitHub/WorldAdventureUnreal5/WorldAdventure/Content/Characters/Hero/Character_AnimationBluePrint.uasset",
+				"C:/Users/Pichau/Documents/GitHub/WorldAdventureUnreal5/WorldAdventure/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/Pichau/Documents/GitHub/WorldAdventureUnreal5/WorldAdventure/Content/Characters/Hero/Animations/CharacterCharacter_Jump_Montage.uasset",
 				"C:/Users/User/Documents/GitHub/WorldAdventureUnreal5/WorldAdventure/Content/Characters/Hero/Character_BlenderSpace_IdleRun.uasset",
 				"C:/Users/User/Documents/GitHub/WorldAdventureUnreal5/WorldAdventure/Content/Characters/Hero/Character_AnimationBluePrint.uasset",
 				"C:/Users/User/Documents/GitHub/WorldAdventureUnreal5/WorldAdventure/Content/ThirdPerson/Blueprints/BP_Player.uasset",
