@@ -1,32 +1,34 @@
-[14108:14112:1121/115632.357:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14108:7380:1121/115632.404:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14108:14112:1121/115632.446:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14108:3916:1121/115635.156:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14108:3916:1121/115635.159:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14108:3916:1121/115635.161:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14108:3916:1121/115635.163:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14108:3916:1121/115635.616:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14108:3916:1121/115635.618:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13604:13644:1121/115637.088:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-30962D63ECCD7870F64D8DE69F609974 will be ignored
-[1868:5232:1121/115638.231:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[1868:13032:1121/115638.254:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[1868:13032:1121/115638.254:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[1868:13032:1121/115638.254:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14108:14292:1121/115639.099:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[14108:14112:1121/115639.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[14108:14112:1121/115639.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[14108:14112:1121/115639.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[14108:14112:1121/115639.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[14108:14292:1121/115639.764:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[3300:2588:1121/115641.088:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:14172:1121/115641.124:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:14172:1121/115641.125:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:14172:1121/115641.125:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14108:3180:1121/115646.097:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14108:3180:1121/115646.097:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
-[3300:2588:1121/115647.468:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:2588:1121/115647.474:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:14172:1121/115647.477:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:14172:1121/115647.477:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[3300:14172:1121/115647.479:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14108:14112:1121/125954.098:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1292:3600:1121/210352.351:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1292:1712:1121/210352.400:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1292:3600:1121/210352.439:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1292:3004:1121/210356.166:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1292:3004:1121/210356.169:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1292:3004:1121/210356.170:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1292:3004:1121/210356.173:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1292:764:1121/210356.661:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1292:764:1121/210356.664:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4964:10832:1121/210358.427:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-656950FB0451B2B1D87963DFF3F48F93 will be ignored
+[1292:12000:1121/211228.102:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/211228.113:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:9792:1121/211228.113:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:3600:1121/211231.597:ERROR:device_event_log_impl.cc(196)] [21:12:31.450] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[1292:12000:1121/211233.116:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:6496:1121/211233.125:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/213028.422:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:4304:1121/213028.422:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:4304:1121/213028.433:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/213028.434:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:3600:1121/213531.621:ERROR:device_event_log_impl.cc(196)] [21:35:31.350] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[1292:764:1121/214047.335:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:6496:1121/214047.341:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/215257.441:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:6496:1121/215257.441:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:764:1121/215302.447:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:6496:1121/215302.452:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:6496:1121/215359.055:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/215359.056:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/220906.611:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:6496:1121/220906.613:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:12000:1121/220906.628:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11204:4304:1121/220906.628:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1292:3600:1121/221624.301:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
