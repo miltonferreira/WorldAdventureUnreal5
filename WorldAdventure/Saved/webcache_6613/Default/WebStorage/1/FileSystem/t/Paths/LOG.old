@@ -1,5 +1,6 @@
-2026/11/21-11:56:46.108 c6c Log #3: 13 ops saved to Table #4 OK
-2026/11/21-11:56:46.109 c6c Archiving C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000003.log: OK
-2026/11/21-11:56:46.109 c6c Table #4: 13 entries OK
-2026/11/21-11:56:46.110 c6c Archiving C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
-2026/11/21-11:56:46.118 c6c **** Repaired leveldb C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 1 files; 360 bytes. Some data may have been lost. ****
+2026/11/23-19:18:35.753 e8c Log #6: 5 ops saved to Table #7 OK
+2026/11/23-19:18:35.754 e8c Archiving C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000006.log: OK
+2026/11/23-19:18:35.754 e8c Table #4: 13 entries OK
+2026/11/23-19:18:35.754 e8c Table #7: 5 entries OK
+2026/11/23-19:18:35.756 e8c Archiving C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
+2026/11/23-19:18:35.762 e8c **** Repaired leveldb C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 2 files; 613 bytes. Some data may have been lost. ****

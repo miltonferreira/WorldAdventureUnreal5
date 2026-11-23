@@ -1,14 +1,70 @@
-[42448:53388:1123/180725.929:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[42448:53388:1123/180725.941:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chave inválida para uso no estado especificado. (0x8009000B)
-[42448:28712:1123/180725.956:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[42448:53388:1123/180725.970:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[42448:43276:1123/180728.087:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[42448:43276:1123/180728.091:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[42448:43276:1123/180728.094:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[42448:43276:1123/180728.098:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[42448:46664:1123/180728.420:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[42448:46664:1123/180728.429:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[33132:28180:1123/180728.764:ERROR:backend_impl.cc(989)] Critical error found -8
-[33132:28180:1123/180728.961:WARNING:storage_block-inl.h(138)] Failed data load.
-[23064:43552:1123/180729.013:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3F761CC0ED1A15ADCB2862315184F8AE will be ignored
-[42448:53388:1123/190913.381:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[43004:34424:1123/191831.239:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43004:33588:1123/191831.263:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43004:34424:1123/191831.276:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43004:38676:1123/191833.065:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43004:38676:1123/191833.068:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43004:38676:1123/191833.070:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43004:38676:1123/191833.072:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43004:38676:1123/191833.301:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43004:38676:1123/191833.302:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17176:16808:1123/191833.568:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-90FED24D5A8E04FED815A2564AD8A7C2 will be ignored
+[50712:53344:1123/191834.001:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[50712:24036:1123/191834.029:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[50712:24036:1123/191834.029:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[50712:24036:1123/191834.030:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28084:40740:1123/191834.045:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[28084:40740:1123/191834.045:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[28084:40740:1123/191834.047:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[28084:40740:1123/191834.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[28084:40740:1123/191834.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[28084:40740:1123/191834.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[28084:40740:1123/191834.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28084:40740:1123/191834.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28084:40740:1123/191834.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28084:40740:1123/191834.050:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[28084:40740:1123/191834.050:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[28084:40740:1123/191834.050:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[50712:24036:1123/191834.051:WARNING:stun_port.cc(442)] Port[1736800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1737000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1737800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1736800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1737000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1737800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1736800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1737000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[50712:24036:1123/191834.053:WARNING:stun_port.cc(442)] Port[1737800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[43004:51320:1123/191834.136:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[43004:34424:1123/191834.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[43004:34424:1123/191834.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[43004:34424:1123/191834.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[43004:34424:1123/191834.217:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[43004:51320:1123/191834.219:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[4624:14484:1123/191834.331:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4624:29708:1123/191834.409:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4624:29708:1123/191834.409:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4624:29708:1123/191834.409:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28084:40740:1123/191834.472:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[28084:40740:1123/191834.472:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[28084:40740:1123/191834.472:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28084:40740:1123/191834.472:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[4624:29708:1123/191834.475:WARNING:stun_port.cc(442)] Port[1ddd800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1dde000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1dde800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1ddd800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1dde000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1dde800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1ddd800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1dde000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:29708:1123/191834.479:WARNING:stun_port.cc(442)] Port[1dde800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4624:14484:1123/191835.170:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[43004:3724:1123/191835.745:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43004:3724:1123/191835.745:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[43004:34424:1123/194508.303:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
