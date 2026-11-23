@@ -1,3 +1,6 @@
-2026/11/21-21:03:52.471 1e4c Reusing MANIFEST C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/11/21-21:03:52.478 1e4c Recovering log #6
-2026/11/21-21:03:52.478 1e4c Reusing old log C:\Users\Pichau\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/11/23-18:07:25.993 c200 Log #6: 11 ops saved to Table #7 OK
+2026/11/23-18:07:25.995 c200 Archiving C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/11/23-18:07:25.996 c200 Table #4: 4 entries OK
+2026/11/23-18:07:25.996 c200 Table #7: 11 entries OK
+2026/11/23-18:07:26.000 c200 Archiving C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/11/23-18:07:26.007 c200 **** Repaired leveldb C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 521 bytes. Some data may have been lost. ****
