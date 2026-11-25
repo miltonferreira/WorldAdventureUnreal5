@@ -1,3 +1,2 @@
-2026/11/23-19:18:31.315 bab8 Reusing MANIFEST C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/11/23-19:18:31.321 bab8 Recovering log #3
-2026/11/23-19:18:31.322 bab8 Reusing old log C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/11/25-17:36:53.690 a160 Creating DB C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/11/25-17:36:53.710 a160 Reusing MANIFEST C:\Users\User\Documents\GitHub\WorldAdventureUnreal5\WorldAdventure\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
